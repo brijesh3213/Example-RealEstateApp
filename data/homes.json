@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "address": "123 Maple Street",
+      "image": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg",
+      "description": "A lovely 3-bedroom house.",
+      "latitude": 37.78825,
+      "longitude": -122.4324
+    },
+    {
+      "id": 2,
+      "address": "456 Oak Avenue",
+      "image": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "A spacious 4-bedroom home.",
+      "latitude": 37.78925,
+      "longitude": -122.4334
+    },
+    {
+      "id": 3,
+      "address": "789 Pine Road",
+      "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "A charming 2-bedroom cottage.",
+      "latitude": 29.967079,
+      "longitude": 77.551018
+    },
+    {
+      "id": 4,
+      "address": "101 Birch Lane",
+      "image": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "A modern 5-bedroom villa.",
+      "latitude": 30.707911,
+      "longitude": 76.724472
+    }
+  ]
+  
